@@ -22,6 +22,8 @@ Each week's notes and source code will be stored inside a separate folder labell
 
 ## Contact Information
 
-If you have any questions or suggestions, feel free to contact me via email at sayedxali@gmail.com.
+- If you have any questions or suggestions, feel free to contact me via email at sayedxali@gmail.com.
+- Linked account  [Seyed Ali](linkedin.com/in/sayedxali)
+- Instagram daily learning posts [DukeOfJava](https://www.instagram.com/justjavanese/)
 
 Thank you for joining me on this learning journey!
